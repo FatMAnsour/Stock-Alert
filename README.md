@@ -34,7 +34,7 @@ Triggers when condition persists for specified duration:
 
 1. **Clone the repository**
 \`\`\`bash
-git clone https://github.com/yourusername/stock-alert-system.git
+git clone https://github.com/FatMAnsour/Stock-Alert.git
 cd stock-alert-system
 \`\`\`
 
