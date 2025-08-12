@@ -18,7 +18,7 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
 
 class StockSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Alert
+        model = Stock
         fields = '__all__'
 
 class AlertSerializer(serializers.ModelSerializer):
